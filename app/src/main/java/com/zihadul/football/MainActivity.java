@@ -251,19 +251,26 @@ public class MainActivity extends YouTubeBaseActivity implements YouTubePlayer.O
         hashMap.put("vdo_desciption", "কিভাবে সকার/ফুটবলে মিডফিল্ড খেলবেন প্রশিক্ষণ কোর্স");
         arrayList.add(hashMap);
 
-//        //------------->>>>>>>>>>>>>>>>>
-//        hashMap = new HashMap<>();
-//        hashMap.put("vdo_id", "HWjQGO_tjSI");
-//        hashMap.put("vdo_title", "Motivational Lines You Must Listen");
-//        hashMap.put("vdo_desciption", "Best Motivational Audio Compilation | Reprogram Your Mind");
-//        arrayList.add(hashMap);
-//
-//        //------------->>>>>>>>>>>>>>>>>
-//        hashMap = new HashMap<>();
-//        hashMap.put("vdo_id", "HWjQGO_tjSI");
-//        hashMap.put("vdo_title", "Motivational Lines You Must Listen");
-//        hashMap.put("vdo_desciption", "Best Motivational Audio Compilation | Reprogram Your Mind");
-//        arrayList.add(hashMap);
+        //------------->>>>>>>>>>>>>>>>>
+        hashMap = new HashMap<>();
+        hashMap.put("vdo_id", "peeoF4ePJHo");
+        hashMap.put("vdo_title", "7টি স্মার্ট প্লে যা আপনাকে আরও ভালো করে তুলবে৷");
+        hashMap.put("vdo_desciption", "7টি স্মার্ট প্লে যা আপনাকে আরও ভালো করে তুলবে৷ প্রশিক্ষণ কোর্স ");
+        arrayList.add(hashMap);
+
+        //------------->>>>>>>>>>>>>>>>>
+        hashMap = new HashMap<>();
+        hashMap.put("vdo_id", "NrRoUK3ZsnU");
+        hashMap.put("vdo_title", "সকার/ফুটবলে আরও গোল করার 7টি উপায়");
+        hashMap.put("vdo_desciption", "সকার/ফুটবলে আরও গোল করার 7টি উপায় প্রশিক্ষণ কোর্স ");
+        arrayList.add(hashMap);
+
+        //------------->>>>>>>>>>>>>>>>>
+        hashMap = new HashMap<>();
+        hashMap.put("vdo_id", "HWjQGO_tjSI");
+        hashMap.put("vdo_title", "Motivational Lines You Must Listen");
+        hashMap.put("vdo_desciption", "Best Motivational Audio Compilation | Reprogram Your Mind");
+        arrayList.add(hashMap);
 
 
 
