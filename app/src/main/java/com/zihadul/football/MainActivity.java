@@ -427,12 +427,7 @@ public class MainActivity extends YouTubeBaseActivity implements YouTubePlayer.O
         hashMap.put("vdo_desciption", "নতুনদের জন্য কিভাবে একটি সকার বল জাগল করবেন প্রশিক্ষণ কোর্স ");
         arrayList.add(hashMap);
 
-        //------------->>>>>>>>>>>>>>>>>
-        hashMap = new HashMap<>();
-        hashMap.put("vdo_id", "HWjQGO_tjSI");
-        hashMap.put("vdo_title", "Motivational Lines You Must Listen");
-        hashMap.put("vdo_desciption", "Best Motivational Audio Compilation | Reprogram Your Mind");
-        arrayList.add(hashMap);
+
 
 
 
